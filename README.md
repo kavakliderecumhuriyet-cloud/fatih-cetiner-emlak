@@ -1,6 +1,3 @@
-# Fatih Çetiner Emlak — Test Sitesi
+# Kaldırıldı
 
-Karşıyaka / İzmir emlak ofisi için test web sitesi. İlanlar hepsiemlak mağazasına bağlıdır:
-https://www.hepsiemlak.com/emlak-ofisi/fatih-cetiner-emlak-71862
-
-Tek dosya: `index.html` (GitHub Pages ile yayınlanır).
+Bu test sitesi kaldırılmıştır.
